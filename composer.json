@@ -1,0 +1,24 @@
+{
+    
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+        
+    },
+    "name": "anthony/test-for-data-crm",
+    "license": "MIT",
+    "description": "This is the app for the test requested by DataCRM",
+    "type": "project",
+    "authors": [
+        {
+            "name": "iAnthonyCoder",
+            "email": "iAnthonyCoder@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0@dev"
+    }
+    
+}
