@@ -1,4 +1,4 @@
-#Prueba técnica DataCRM
+# Prueba técnica DataCRM
 
 Para ejecutar el software, colocar la carpeta dentro de un servidor PHP.
 
@@ -12,4 +12,4 @@ Para acceder al software configurar el directorio root del servidor en:
 
 - public/index.html
 
-o navegar hasta ese archivo con el navegador
+En su defecto dirigirse hasta la ruta especificada con el navegador
